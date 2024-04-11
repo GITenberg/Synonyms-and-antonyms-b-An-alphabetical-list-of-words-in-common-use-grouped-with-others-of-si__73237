@@ -1,0 +1,34 @@
+_repo: Synonyms-and-antonyms-b-An-alphabetical-list-of-words-in-common-use-grouped-with-others-of-si__73237
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ordway, Edith B. (Edith Bertha)
+    alias: Ordway, Edith Bertha
+    birthdate: 1877
+    deathdate: 1944
+    gutenberg_agent_id: '25323'
+    url: http://www.gutenberg.org/2009/agents/25323
+description: ''
+gutenberg_issued: '2024-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73237'
+  lccn: '13021047'
+language: en
+pgterms:marc904: https://archive.org/details/synonymsantonyms00ordwiala
+pgterms:marc905: 20201211140100ordway
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bGeorge Sully and co., $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Synonyms and antonyms'
+- !lcc 'PE'
+- GITenberg
+title: 'Synonyms and antonyms : $b An alphabetical list of words in common use, grouped
+  with others of similar and opposite meaning'
+url: http://www.gutenberg.org/ebooks/73237
